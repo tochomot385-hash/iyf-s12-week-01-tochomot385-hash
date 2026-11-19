@@ -18,7 +18,7 @@ Semantic HTML conversion
 Accessible contact form
 Accessibility audit report (100/100)
 #How to Run
-Clone: git clone https://github.com/preciousndegwa48/iyf-s12-week-01-preciousndegwa48.git
+Clone: git clone https://github.com/iyf-s12-week-01-tochomot385-hash/iyf-s12-week-01-tochomot385-hash.git
 Open index.html in browser
 #Lessons Learned
 
