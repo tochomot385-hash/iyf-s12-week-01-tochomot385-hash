@@ -30,6 +30,6 @@ GitHub "Its not empty" error fixed via mobile web flow, phone-only coding, and l
 
 #Live Demo
 
-#Main: https://tochomot385-hash.github.io/iyf-s12-week-01-tochomot385-hash/
-#Semantic: https://tochomot385-hash.github.io/iyf-s12-week-01-tochomot385-hash/semantic-conversion.html
-#Contact: https://tochomot385-hash.github.io/iyf-s12-week-01-tochomot385-hash/contact.html
+#Main: (https://tochomot385-hash.github.io/iyf-s12-week-01-tochomot385-hash/)
+#Semantic: (https://tochomot385-hash.github.io/iyf-s12-week-01-tochomot385-hash/semantic-conversion.html)
+#Contact: (https://tochomot385-hash.github.io/iyf-s12-week-01-tochomot385-hash/contact.html)
